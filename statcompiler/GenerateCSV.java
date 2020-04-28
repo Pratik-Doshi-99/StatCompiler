@@ -1,9 +1,7 @@
 package statcompiler;
 
 import core.Date;
-import core.DynamicCalculation;
 import core.Interval;
-import core.InvalidDateException;
 import core.QueryParameter;
 import core.ServerConnect;
 import java.io.File;
